@@ -1,0 +1,80 @@
+#personal_info_div{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#profile_picture{
+    height:250px;
+    width: 250px;
+    display: block;
+    align-self: center;
+    padding: 10px;
+}
+#name{
+    color:#1c504b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#profession{
+    color: #54918b;
+}
+#contact_div{
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #1c504b;
+    text-align: center;
+    color: lavender;
+    font-size: 12pt;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#details_div{
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+#right_div{
+    padding: 10px;
+    width: 48%;
+    float: right;
+    height: 100%;
+}
+#left_div{
+    padding: 10px;
+    width: 48%;
+    float: left;
+    height: 100%;
+}
+#details_div h1{
+    color: #1c504b;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#details_div h2{
+    color: #54918b;
+    font-family:'Times New Roman', Times, serif;
+}
+#details_div h3{
+    font-style:oblique;
+}
+#details_div h4{
+    font-style:oblique;
+}
+#details_div li{
+    font-style: italic;
+    font-size: 14pt;
+}
+#skills_table{
+    width: 100%;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 5px;
+    font-style:normal;
+    font-size: 14pt;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#skills_table td{
+    width: 50%;
+    background-color: rgb(207, 221, 220);
+    border: dashed rgb(80, 87, 94);
+}
+#details_div p{
+    font-style: italic;
+    font-size: 14pt;
+}
